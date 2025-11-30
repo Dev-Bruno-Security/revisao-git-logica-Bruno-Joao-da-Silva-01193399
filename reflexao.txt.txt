@@ -1,0 +1,21 @@
+ A lógica dedutiva no Git aparece de forma clara no dia a dia, partimos de premissas gerais, todo commit tem um hash único, branches são ponteiros móveis, merge combina históricos e chegamos a conclusões específicas sobre o estado do código,
+ por exemplo, se sei que o ponteiro head está na branch main e que o último commit é o X, deduzo necessariamente que o conteúdo atual dos arquivos é exatamente o estado salvo no commit X, quando faço git checkout de um commit antigo, 
+ deduzo com certeza qual será o conteúdo dos arquivos porque o histórico é imutável,
+
+1-
+A rastreabilidade é importante no git porque ele permite monitora toda a movimentação que está sendo realizada na montagem do projeto deixando um histórico bem organizado e de fácil entendimento.
+2-
+A Branch representa a decomposição no desenvolvimento do projeto em um espaço independente isso facilita no desenvolvimento que trabalhe em pequenas partes do codigo e sem interferência no código principal.
+
+3- 
+O comando git commit ele registra todas as mudanças que são realizadas no desenvolvimento do projeto de forma continua e lógica isso cria um histórico onde pode ter um acompanhamento permite controla toda a evolução do projeto.
+
+4-
+Algo idutivel é quando eu apresento uma situação e causo o problema de propósito para mostrar o erro.
+Dedutível é algo que eu apresento uma situação e por acaso acaba apresentando um problema e eu tenho que verificar qual a causa do problema ou seja deduzi as causas até encontrar a solução.
+
+5- 
+O Git status ele mostra o status que está o arquivo, qual o tipo de modificação que ele sofreu ou está sofrendo.
+O Git dif ele realiza uma comparação entre versões, comprara linhas de código do que tem em uma que é diferente na outra.
+O Git log ele no resumo é o histórico do arquivo, onde mostra data, horas, autor e a mensagem que contém.
+O Git no geral ele realiza uma logíca que é dedutível e previsível sobre os projetos.
